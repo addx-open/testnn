@@ -1,0 +1,108 @@
+{
+  "rock": {
+    "supportChina": true,
+    "supportOversea": false,
+    "themeColor": "#0272D4",
+    "packageName": "com.ai.addx.guard",
+    "tenantId": "guard",
+    "appName": "ClearStream",
+    "appInternalName": "ClearStream",
+    "copyright": "Copyright  2021 addx. All rights reserved",
+    "needAliPay": false,
+    "needPush": true,
+    "needWeChat": true,
+    "needBugsnag": true,
+    "needZendesk": true,
+    "terms": {
+      "default": "https://www.vicoo.tech/guard/terms-of-use/en",
+      "defaultFormat": "https://www.vicoo.tech/%s/terms-of-use/%s",
+      "cn": "https://www.vicoo.tech/dzees/terms-of-use/cn",
+      "说明:": "优先级 cn(或其它语言)>defaultFormat>default>代码内的默认FormatUrl,(awareness,subscription,helpinfo同理)"
+    },
+    "policy": {
+      "defaultFormat": "https://www.vicoo.tech/%s/privacy-policy/%s"
+    },
+    "prod": {
+      "cn": {
+        "apiHost": "https://api.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-us.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-eu.addx.live"
+      },
+      "umengKey": "5c88d81d0cafb23ac90007e7",
+      "umengSecret": "d8ee806bf2bd50bf37d0c33dc5ccb2b4",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "countlyServer": "https://countly-new.addx.live",
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "bugsnagKey": "0e1800896236cfa86bd5bece344f7a0e",
+      "wechatAppId": "wx3676026bbe9716b8"
+    },
+    "staging": {
+      "cn": {
+        "apiHost": "https://api-stage.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-staging-us.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-staging-eu.addx.live"
+      },
+      "umengKey": "5c88d81d0cafb23ac90007e7",
+      "umengSecret": "d8ee806bf2bd50bf37d0c33dc5ccb2b4",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "countlyServer": "https://countly-new.addx.live",
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "wechatAppId": "wx3676026bbe9716b8"
+    },
+    "test": {
+      "cn": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "umengKey": "5c88d81d0cafb23ac90007e7",
+      "umengSecret": "d8ee806bf2bd50bf37d0c33dc5ccb2b4",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "countlyServer":{
+        "cn": "https://countly-new.addx.live",
+        "oversea": "https://countly-new.vicohome.io"
+      },
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "wechatAppId": "wx3676026bbe9716b8"
+    }
+  }
+}
+

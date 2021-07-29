@@ -1,0 +1,91 @@
+{
+  "vicohome": {
+    "supportChina": false,
+    "supportOversea": true,
+    "apiVersion": "v1",
+    "themeColor": "#41CBA5",
+    "packageName": "com.smartaddx.vicohome",
+    "tenantId": "vicoo",
+    "appName": "VicoHome",
+    "appInternalName": "VicoHome",
+    "copyright": "Copyright © 2021 VicoHome Addx Hong Kong Limited  All rights reserved.",
+    "needAliPay": false,
+    "needPush": false,
+    "needWeChat": true,
+    "needBugsnag": true,
+    "needZendesk": true,
+    "prod": {
+      "cn": {
+        "apiHost": "https://api-cn.vicohome.io"
+      },
+      "us": {
+        "apiHost": "https://api-us.vicohome.io"
+      },
+      "eu": {
+        "apiHost": "https://api-eu.vicohome.io"
+      },
+      "countlyServer": "https://countly.vicohome.io",
+      "countlyKey": "c556e56632ea54d38b27a32fa31354e5909cfccb",
+      "bugsnagKey": "771e452097cf5ce67811c6b10658d99d",
+      "flymeKey": "not support",
+      "flymeId": "not support",
+      "oppoKey": "not support",
+      "oppoSecret": "not support",
+      "miId": "2882303761518940770",
+      "miKey": "5291894046770",
+      "huaweiId": "103588297",
+      "XG_ACCESS_ID": "1520010466",
+      "XG_ACCESS_KEY": "AYDVQRUWH6G0",
+      "wechatAppId": "not support"
+    },
+    "staging": {
+      "cn": {
+        "apiHost": "https://api-staging-cn.vicohome.io"
+      },
+      "us": {
+        "apiHost": "https://api-staging-us.vicohome.io"
+      },
+      "eu": {
+        "apiHost": "https://api-staging-eu.vicohome.io"
+      },
+      "countlyServer": "https://countly.vicohome.io",
+      "countlyKey": "39db05cc8716abaf6f54745b53c4fa9a5296c43b",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "flymeKey": "not support",
+      "flymeId": "not support",
+      "oppoKey": "not support",
+      "oppoSecret": "not support",
+      "miId": "2882303761518940770",
+      "miKey": "5291894046770",
+      "huaweiId": "103588297",
+      "XG_ACCESS_ID": "1520010466",
+      "XG_ACCESS_KEY": "AYDVQRUWH6G0",
+      "wechatAppId": "not support"
+    },
+    "test": {
+      "cn": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "countlyServer": "https://countly.vicohome.io",
+      "countlyKey": "11af45a88650e97c9990ee81e3c7080708940d8e",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "flymeKey": "not support",
+      "flymeId": "not support",
+      "oppoKey": "not support",
+      "oppoSecret": "not support",
+      "miId": "2882303761518940770",
+      "miKey": "5291894046770",
+      "huaweiId": "103588297",
+      "XG_ACCESS_ID": "1520010466",
+      "XG_ACCESS_KEY": "AYDVQRUWH6G0",
+      "wechatAppId": "not support"
+    }
+  }
+}
+

@@ -1,0 +1,92 @@
+{
+  "guard": {
+    "supportChina": true,
+    "supportOversea": false,
+    "apiVersion": "v1",
+    "themeColor": "#FF7E53",
+    "packageName": "com.ai.addx.guard",
+    "tenantId": "guard",
+    "appName": "全橙看家",
+    "appInternalName": "全橙看家",
+    "copyright": "Copyright © 2021 addx. All rights reserved",
+    "needAliPay": false,
+    "needPush": false,
+    "needWeChat": true,
+    "needBugsnag": true,
+    "needZendesk": true,
+    "prod": {
+      "cn": {
+        "apiHost": "https://api.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-us.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-eu.addx.live"
+      },
+      
+      "countlyServer": "https://countly-new.addx.live",
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "bugsnagKey": "0e1800896236cfa86bd5bece344f7a0e",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "wechatAppId": "wx3676026bbe9716b8"
+    },
+    "staging": {
+      "cn": {
+        "apiHost": "https://api-stage.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-staging-us.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-staging-eu.addx.live"
+      },
+      "countlyServer": "https://countly-new.addx.live",
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "wechatAppId": "wx3676026bbe9716b8"
+    },
+    "test": {
+      "cn": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "us": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      "eu": {
+        "apiHost": "https://api-test.addx.live"
+      },
+      
+      "countlyServer": "https://countly-new.addx.live",
+      "countlyKey": "1271062c0be4046f96222de53380a800857a63a2",
+      "bugsnagKey": "33632d7ba98064e76536b4dc4d43448e",
+      "flymeKey": "2f8a52cc792c4d23b686b40f3ecc682d",
+      "flymeId": "137181",
+      "oppoKey": "07e83c063f05406884a466dd58496b24",
+      "oppoSecret": "32da904e6b6e439e9fe8d0f5c7900254",
+      "miId": "2882303761518876348",
+      "miKey": "5561887661348",
+      "huaweiId": "103308165",
+      "XG_ACCESS_ID": "1500011906",
+      "XG_ACCESS_KEY": "AJYTKUV3YIXJ",
+      "wechatAppId": "wx3676026bbe9716b8"
+    }
+  }
+}
